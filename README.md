@@ -52,3 +52,16 @@ http://127.0.0.1:8000/docs
   "prediction": 1,
   "meaning": "Loan Approved"
 }
+
+---
+
+## API Preview
+
+### Swagger Docs
+![Swagger Docs](screenshots/docs.png)
+
+### Sample Request
+![Request](screenshots/request.png)
+
+### Sample Response
+![Response](screenshots/response.png)
